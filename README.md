@@ -18,6 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuedong&hide=jupyter%20notebook,emacs%20lisp,html,css&layout=compact&langs_count=10)
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuedong)
+
 ### Extra Pins
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=auto-music)
