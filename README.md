@@ -18,4 +18,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuedong&hide=jupyter%20notebook,emacs%20lisp,html,css&layout=compact&langs_count=10)
 
+### Extra Pins
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=auto-music)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=hacker-rank)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=leet-code)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=LinBAI.jl)
