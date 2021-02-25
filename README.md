@@ -22,7 +22,9 @@
 
 ### Extra Pins
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=auto-music)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=hacker-rank)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=leet-code)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=nowcoder)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=codebooks)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=LinBAI.jl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=time-series)
