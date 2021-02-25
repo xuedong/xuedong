@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently a Ph.D candidate at Inria Scool team (previously SequeL team).
 - 🔭 I’m currently working on bandits, black-box optimization, automated machine learning, and reinforcement learning (theory and deep RL).
-- 🌱 I’m currently learning anything related to maths, programming, AI and quantitative finance.
+- 🌱 I’m currently learning anything related to maths, programming, AI and fintech.
 - 👯 I’m open for collaboration.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Please checkout my [webpage](https://xuedong.github.io).
