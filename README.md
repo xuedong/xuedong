@@ -11,6 +11,7 @@
 - 👯 I’m open for collaboration.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Please checkout my [webpage](https://xuedong.github.io).
+- ⚡ Fun fact: My avatar is [Samantha "Root" Groves](https://personofinterest.fandom.com/wiki/Root) in [Person of Interest](https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)) (played by [Amy Acker](https://en.wikipedia.org/wiki/Amy_Acker)).
 
 ### My Stats
 
