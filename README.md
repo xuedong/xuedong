@@ -6,7 +6,7 @@
 -->
 
 - 🎓 I'm currently a Ph.D candidate at Inria Scool team (previously SequeL team).
-- 🔭 I’m currently working on bandits, black-box optimization, automated machine learning, and reinforcement learning (theory and deep RL).
+- 🔭 I’m currently working on bandits, optimization, automated machine learning, and reinforcement learning (theory and deep RL).
 - 🌱 I’m currently learning anything related to maths, programming, AI and fintech/quantitative finance.
 - 👯 I’m open for collaboration.
 - 💬 Ask me about anything.
