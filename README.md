@@ -14,7 +14,7 @@
 
 ### My Stats
 
-![Xuedong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuedong&count_private=true&show_icons=true&theme=nord)
+![Xuedong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuedong&count_private=true&show_icons=true&theme=nord&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuedong&hide=jupyter%20notebook,emacs%20lisp,html,css&layout=compact&langs_count=10)
 
