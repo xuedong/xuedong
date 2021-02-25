@@ -17,3 +17,5 @@
 ![Xuedong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuedong&count_private=true&show_icons=true&theme=nord)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuedong&hide=jupyter%20notebook,emacs%20lisp,html,css&layout=compact&langs_count=10)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=auto-music)
