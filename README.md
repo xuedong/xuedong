@@ -5,7 +5,7 @@
 **xuedong/xuedong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I'm currently a Ph.D candidate at Inria Scool team (previously SequeL team).
+- 🎓 I obtained my Ph.D at Inria Scool team (previously SequeL team).
 - 🔭 I’m currently working on bandits, optimization, automated machine learning, and theoretical/deep reinforcement learning.
 - 🌱 I’m currently learning anything related to maths, programming, AI and fintech/quantitative finance.
 - 👯 I’m open for collaboration.
