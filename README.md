@@ -17,9 +17,11 @@
 
 ![Xuedong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuedong&count_private=true&show_icons=true&theme=nord&include_all_commits=true)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuedong&hide=jupyter%20notebook,emacs%20lisp,html,css&layout=compact&langs_count=10)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuedong&layout=compact)
+
 
 ### Extra Pins
 
@@ -29,3 +31,4 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=codebooks)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=LinBAI.jl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuedong&repo=time-series)
+-->
